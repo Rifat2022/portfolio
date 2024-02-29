@@ -1,55 +1,42 @@
-node_modules
-Portfolio-WEB/node_modules
-Portfolio-WEB/.idea
-Portfolio-WEB/typings
-Portfolio-WEB/server/**/*.js
-Portfolio-WEB/server/**/*.js.map
-Portfolio-WEB/client/**/*.js
-Portfolio-WEB/client/**/*.js.map
-Portfolio-WEB//npm-debug.log
-Portfolio-WEB/.env
-Portfolio-WEB/.vscode
-
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-
+node_modules
 # Compiled output
-Portfolio-WEB/dist
-Portfolio-WEB/tmp
-Portfolio-WEB/out-tsc
-Portfolio-WEB/bazel-out
+portfolio-ng-app/dist
+portfolio-ng-app/tmp
+portfolio-ng-app/out-tsc
+portfolio-ng-app/bazel-out
 
 # Node
-Portfolio-WEB/node_modules
-Portfolio-WEB/npm-debug.log
-Portfolio-WEB/yarn-error.log
+portfolio-ng-app/node_modules
+portfolio-ng-app/npm-debug.log
+portfolio-ng-app/yarn-error.log
 
 # IDEs and editors
-Portfolio-WEB/.idea/
-Portfolio-WEB/.project
-Portfolio-WEB/.classpath
-Portfolio-WEB/.c9/
-Portfolio-WEB/*.launch
-Portfolio-WEB/.settings/
-Portfolio-WEB/*.sublime-workspace
+portfolio-ng-app/.idea/
+portfolio-ng-app/.project
+portfolio-ng-app/.classpath
+portfolio-ng-app/.c9/
+portfolio-ng-app/*.launch
+portfolio-ng-app/.settings/
+portfolio-ng-app/*.sublime-workspace
 
 # Visual Studio Code
-Portfolio-WEB/.vscode/*
-!Portfolio-WEB/.vscode/settings.json
-!Portfolio-WEB/.vscode/tasks.json
-!Portfolio-WEB/.vscode/launch.json
-!Portfolio-WEB/.vscode/extensions.json
-Portfolio-WEB/.history/*
+portfolio-ng-app/.vscode/*
+!portfolio-ng-app/.vscode/settings.json
+!portfolio-ng-app/.vscode/tasks.json
+!portfolio-ng-app/.vscode/launch.json
+!portfolio-ng-app/.vscode/extensions.json
+portfolio-ng-app/.history/*
 
 # Miscellaneous
-Portfolio-WEB/.angular/cache
-Portfolio-WEB/.sass-cache/
-Portfolio-WEB/connect.lock
-Portfolio-WEB/coverage
-Portfolio-WEB/libpeerconnection.log
-Portfolio-WEB/testem.log
-Portfolio-WEB/typings
+portfolio-ng-app/.angular/cache
+portfolio-ng-app/.sass-cache/
+portfolio-ng-app/connect.lock
+portfolio-ng-app/coverage
+portfolio-ng-app/libpeerconnection.log
+portfolio-ng-app/testem.log
+portfolio-ng-app/typings
 
 # System files
-Portfolio-WEB/.DS_Store
-Portfolio-WEB/Thumbs.db
-
+portfolio-ng-app/.DS_Store
+portfolio-ng-app/Thumbs.db
