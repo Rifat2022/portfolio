@@ -1,0 +1,55 @@
+node_modules
+Portfolio-WEB/node_modules
+Portfolio-WEB/.idea
+Portfolio-WEB/typings
+Portfolio-WEB/server/**/*.js
+Portfolio-WEB/server/**/*.js.map
+Portfolio-WEB/client/**/*.js
+Portfolio-WEB/client/**/*.js.map
+Portfolio-WEB//npm-debug.log
+Portfolio-WEB/.env
+Portfolio-WEB/.vscode
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+Portfolio-WEB/dist
+Portfolio-WEB/tmp
+Portfolio-WEB/out-tsc
+Portfolio-WEB/bazel-out
+
+# Node
+Portfolio-WEB/node_modules
+Portfolio-WEB/npm-debug.log
+Portfolio-WEB/yarn-error.log
+
+# IDEs and editors
+Portfolio-WEB/.idea/
+Portfolio-WEB/.project
+Portfolio-WEB/.classpath
+Portfolio-WEB/.c9/
+Portfolio-WEB/*.launch
+Portfolio-WEB/.settings/
+Portfolio-WEB/*.sublime-workspace
+
+# Visual Studio Code
+Portfolio-WEB/.vscode/*
+!Portfolio-WEB/.vscode/settings.json
+!Portfolio-WEB/.vscode/tasks.json
+!Portfolio-WEB/.vscode/launch.json
+!Portfolio-WEB/.vscode/extensions.json
+Portfolio-WEB/.history/*
+
+# Miscellaneous
+Portfolio-WEB/.angular/cache
+Portfolio-WEB/.sass-cache/
+Portfolio-WEB/connect.lock
+Portfolio-WEB/coverage
+Portfolio-WEB/libpeerconnection.log
+Portfolio-WEB/testem.log
+Portfolio-WEB/typings
+
+# System files
+Portfolio-WEB/.DS_Store
+Portfolio-WEB/Thumbs.db
+
